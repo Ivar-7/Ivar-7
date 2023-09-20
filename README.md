@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin
 ====================================================================================================================================
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
@@ -8,7 +8,7 @@ I'm currently working self emplyment, striving to connect our African people to 
 - Have 1+ years of hands-on experience in **Software Development** and 2 year experience in **Computer Science.**
 - Have built **Web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 #### What I'm doing?
-- 🏢 Working at **[Moringa School](https://moringaschool.com/)**.
+- 🏢 Studying at **[Moringa School](https://moringaschool.com/)** and **[Egerton University](https://egerton.ac.ke/)**.
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/kevin-lean-466330278/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
