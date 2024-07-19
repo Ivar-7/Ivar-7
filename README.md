@@ -47,9 +47,9 @@ I'm currently working self emplyment, striving to connect our African people to 
   
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
-https://github.com/Denisomondi
+  
 #### What's interesting about me?  
-  - 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
+  - 😎 I am an **Ambivert** and I can speak **English** **Swahili** and my local mother-toungue.
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.teeket.app/">
