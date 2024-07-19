@@ -52,7 +52,7 @@ https://github.com/Denisomondi
   - 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
 #### What companies have I worked for?
 <p left="center">
-  <a href="https://moringaschool.com/">
+  <a href="https://www.teeket.app/">
     <img src="https://imgs.search.brave.com/YpBrlTKFEDPRzrMSR7blBM7DIzTw0wpXB3evHp-bdoI/rs:fit:200:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/eHZ2bm8zMndzWW5O/N2t2TTJNaVF3QUFB/QSZwaWQ9QXBp" height=70>
     </a> 
   <a href="https://www.linkedin.com/company/united-states-of-africa/">
