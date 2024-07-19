@@ -53,7 +53,7 @@ https://github.com/Denisomondi
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.teeket.app/">
-    <img src="https://ibb.co/VYFq3hQ" height=70>
+    <img src="https://i.ibb.co/MkzC9jG/Teeket.png" alt="Teeket" border="0">
     </a> 
   <a href="https://www.linkedin.com/company/united-states-of-africa/">
 
