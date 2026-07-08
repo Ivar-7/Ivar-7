@@ -35,13 +35,13 @@ Building scalable web platforms, mobile apps, APIs, and AI-powered products.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,sql,ruby" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,ruby" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
 </p>
 
 ### Backend
