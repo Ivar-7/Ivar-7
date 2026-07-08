@@ -2,7 +2,15 @@
 
 # Hi, I'm Ivar 👋
 
-**Full-Stack Developer • Backend Engineer • Mobile Developer**
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" alt="Full Stack Developer"/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Cyberpunk Coding" width="100%">
+
+ <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Coding Setup" width="100%">
+
+ <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Matrix" width="100%">
+
+**Full-Stack Developer • Cyber Security Engineer • Mobile Developer**
 
 Building scalable web platforms, mobile apps, APIs, and AI-powered products.
 
