@@ -35,7 +35,7 @@ Building scalable web platforms, mobile apps, APIs, and AI-powered products.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,sql,ruby" />
 </p>
 
 ### Frontend
@@ -47,14 +47,14 @@ Building scalable web platforms, mobile apps, APIs, and AI-powered products.
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,rails,express,mongodb,postgres,docker" />
 </p>
 
 ### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
-  <img src="https://cdn.simpleicons.org/expo" height="48" alt="Expo"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin" />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="48" alt="Swift"/>
 </p>
 
 ### Tools
