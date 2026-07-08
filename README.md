@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web developer | Computer Scientist | Cyber Security expert.
 ----------------------------------------------------------
 I'm currently working self emplyment, striving to connect our African people to the future they envision for themselves.
-- Have 1+ years of hands-on experience in **Software Development** and 2 year experience in **Computer Science.**
-- Have built **Web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
+- Have 5+ years of hands-on experience in **Software Development** and **Computer Science.**
+- Have built **Web** and **Mobile** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 #### What I'm doing?
 - 🏢 Studying at **[Egerton University](https://egerton.ac.ke/)**.
 - 👨‍💻 Writing `Python` `Ruby on Rails` `SQL` `HTML` `CSS` `JavaScript` `React`.
@@ -49,7 +49,7 @@ I'm currently working self emplyment, striving to connect our African people to 
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
 https://github.com/Denisomondi
 #### What's interesting about me?  
-  - 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
+  - 😎 I am an **Ambivert** and I can speak **English** and **Swahili**.
 #### What companies have I worked for?
 <p left="center">
   <a href="https://www.teeket.app/">
@@ -59,18 +59,20 @@ https://github.com/Denisomondi
 
 
 ### Socials<p align="left"> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Ivar-7"><img src="https://github-readme-stats.vercel.app/api?username=Ivar-7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ivar-7's GitHub stats" /></a>
+<a href="https://github.com/Ivar-7">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivar-7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Ivar-7's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/Ivar-7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivar-7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Ivar-7">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivar-7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Ivar-7's GitHub Streak" />
+</a>
     
-<a href="https://github.com/Ivar-7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivar-7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ivar-7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivar-7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
 
 <b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
- 
