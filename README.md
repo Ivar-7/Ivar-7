@@ -96,7 +96,7 @@ AI-powered study platform featuring:
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.potentia.studybay">
-    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Play-Link-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
   </a>
 
   <a href="https://mystudybae.vercel.app/">
@@ -112,7 +112,7 @@ Educational platform for students.
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.tuki.tukistudy">
-    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Play-Link-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
   </a>
 </p>
 
