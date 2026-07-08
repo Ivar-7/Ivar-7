@@ -8,132 +8,153 @@
 
 Building scalable web platforms, mobile apps, APIs, and AI-powered products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-lean-466330278/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ivar-7)
+<p>
+  <a href="https://www.linkedin.com/in/kevin-lean-466330278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ivar-7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Full-stack developer focused on modern web & mobile applications
-- ⚡ Strong interest in scalable backend systems and clean architecture
-- 📱 Building production Flutter, React and FastAPI applications
+- 🔒 Passionate about cybersecurity, scalable backend systems and clean architecture
+- 📱 Building production Flutter, React, React Native and FastAPI applications
 - 🤖 Interested in AI integrations, recommendation systems and automation
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,sql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgres,docker" />
 </p>
 
 ### Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://cdn.simpleicons.org/expo" height="48" alt="Expo"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
+  <img src="https://cdn.simpleicons.org/kalilinux" height="48" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/wireshark" height="48" alt="Wireshark"/>
 </p>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-- **Skyfalke**
-- **Meliora Tech**
-- **TukiStudy Limited**
+- 🏢 **Skyfalke**
+- 🏢 **Meliora Tech**
+- 🏢 **Teeket Limited**
+- 🏢 **TukiStudy Limited**
 
 ---
 
-## 📱 Featured Projects
+# 📱 Featured Projects
 
-### 🎓 Varsity — Study Partner
+## 🎓 Varsity — Study Partner
 
 **Lead Developer**
 
-**Tech**
+**Tech Stack**
+
 `Flutter` • `FastAPI` • `MongoDB` • `AI/ML`
 
 AI-powered study platform featuring:
 
-- AI study recommendations
-- Student partner matching
-- Mobile and Web applications
-- Real-time backend services
+- 🤖 AI study recommendations
+- 🤝 Student partner matching
+- 📱 Cross-platform mobile application
+- 🌐 Responsive web application
+- ⚡ High-performance backend APIs
 
-**Android**
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.potentia.studybay">
+    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
 
-https://play.google.com/store/apps/details?id=com.potentia.studybay
-
-**Web**
-
-https://mystudybae.vercel.app/
-
----
-
-### 📚 TukiStudy
-
-Educational learning platform built for students.
-
-**Android**
-
-https://play.google.com/store/apps/details?id=com.tuki.tukistudy
-
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ivar-7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Ivar-7&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivar-7&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://mystudybae.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Website-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🤝 Connect
+## 📚 TukiStudy
 
-<p align="left">
+Educational platform for students.
 
-<a href="https://www.linkedin.com/in/kevin-lean-466330278/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.tuki.tukistudy">
+    <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+## 🎟️ Teeket
+
+Ticketing and event management platform.
+
+<p>
+  <a href="https://www.teeket.app/">
+    <img src="https://img.shields.io/badge/Live_Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ivar-7&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Ivar-7&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivar-7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-lean-466330278/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-*"Build things that solve real problems."*
+### *Build things that solve real problems.*
 
 </div>
